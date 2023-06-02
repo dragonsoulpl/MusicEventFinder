@@ -1,5 +1,4 @@
 # Peter Liu
-# CPEG457 Final Project
 # Music Event Finder
 
 import requests
