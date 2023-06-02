@@ -11,4 +11,4 @@ Upon submitting this, you will be greeted with a list of current and upcoming ev
 
 Try it for any artists!
 
-![Alt text](C:\Users\the guy\Pictures\MusicEventFinderExample.png?raw=true)
+![MusicEventFinderExample](https://github.com/dragonsoulpl/MusicEventFinder/assets/91435678/423101ff-c56b-436b-8bee-fda60aedfab7)
